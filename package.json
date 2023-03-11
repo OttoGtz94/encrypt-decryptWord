@@ -1,0 +1,16 @@
+{
+	"name": "encrypted-word",
+	"version": "1.0.0",
+	"description": "Encriptado de palabras",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js"
+	},
+	"type": "module",
+	"author": "Otto Gtz",
+	"license": "ISC",
+	"dependencies": {
+		"inquirer": "^9.1.4"
+	}
+}
